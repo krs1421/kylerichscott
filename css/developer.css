@@ -1,0 +1,129 @@
+/* Tags */
+
+
+
+
+
+/* Class */
+
+
+/* Nav Bar */
+
+.logo {
+  width: 50px;
+}
+
+.navbar {
+  background-color: #FF2E63;
+  font-family: "raleway";
+}
+
+.navbar-brand {
+  padding-left: 5px;
+}
+
+.nav-item {
+  font-size: 1.2rem;
+  padding: 0 0 0 4rem;
+}
+
+.nav-link {
+  color: white;
+}
+
+.navbar-light {
+  color: white;
+}
+
+/* Header */
+
+.heading-container {
+  background-image: url("webdesigner.png");
+  background-size: cover;
+  padding: 35px 0;
+}
+
+.header-1 {
+  color: white;
+  font-family:'La Belle Aurore', cursive;
+  font-size: 12.5vw;
+  margin-bottom: 0;
+  padding-left: 40px;
+}
+
+/* Upcoming */
+
+.card {
+  border: solid #252A34 5px;
+  color: #252A34;
+  font-family: "raleway";
+  margin: 0 auto 75px auto;
+  text-align: center;
+}
+
+.upcoming-projects {
+  background-color: white;
+  padding: 75px 100px;
+  text-align: center;
+}
+
+.header-upcoming {
+  color: #252A34;
+  font-family: "raleway";
+  font-size: 4.5vw;
+  padding-top: 25px;
+  text-align: center;
+}
+
+/* Design Examples */
+
+.design-examples {
+  background-image: url(designer-bg.png);
+  background-size: cover;
+}
+
+.header-design {
+  color: white;
+  font-family: "raleway";
+  font-size: 4.5vw;
+  padding-bottom: 75px;
+  padding-top: 75px;
+  text-align: center;
+}
+
+
+/* Website Examples */
+
+.header-web {
+  color: #252A34;
+  font-family: "raleway";
+  font-size: 4.5vw;
+  padding-bottom: 75px;
+}
+
+.web-examples {
+  padding: 75px 100px;
+  text-align: center;
+}
+
+/* Footer */
+
+.footer-logo {
+  color: white;
+  padding-bottom: 20px;
+  margin: 0 7px;
+}
+
+.copyright {
+  color: white;
+  text-align: center;
+  font-family: "raleway", sans-serif;
+  font-size: .75rem;
+  padding-bottom: 10px;
+}
+
+.footer {
+  background-color: #FF2E63;
+  padding-top: 10px;
+  text-align: center;
+}
