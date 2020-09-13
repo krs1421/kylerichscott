@@ -29,6 +29,12 @@ hr {
   padding-top: 50px;
 }
 
+.about-me-header2 {
+  color: white;
+  font-size: 1.5rem;
+  padding-bottom: 2px;
+}
+
 .bottom-container {
   background-color: #204051;
   text-align: center;
